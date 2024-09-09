@@ -1,2 +1,2 @@
 # string-utilities-2019
-String manipulation methods
+String manipulation methods with JUnit coverage testing
